@@ -1,0 +1,2 @@
+0 OrderNumber, 1 CustomerName, 2 State, 3 TaxRate, 4 ProductType, 5 Area, 6 CostPerSquareFoot, 7 LaborCostPerSquareFoot, 8 MaterialCost, 9 LaborCost, 10 Tax, 11 Total
+1,Wise,OH,6.25,Wood,100.00,5.15,4.75,515.00,475.00,61.88,1051.88
